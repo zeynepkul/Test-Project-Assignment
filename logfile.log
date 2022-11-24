@@ -1,0 +1,1115 @@
+2022-11-24 18:48:47,642 INFO  [Log] getURL() PASSED 
+2022-11-24 18:49:15,523 INFO  [Log] getURL() PASSED 
+2022-11-24 18:49:20,294 INFO  [Log] searchProduct() PASSED 
+2022-11-24 18:49:22,311 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 18:49:22,577 ERROR [Log] selectAProductSize() FAILED with cause : Index 6 out of bounds for length 1 
+2022-11-24 18:49:32,900 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:51853}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51853/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15b130944e8c0756bbb8e32d18dcd623 
+2022-11-24 18:58:46,420 INFO  [Log] getURL() PASSED 
+2022-11-24 18:58:50,423 INFO  [Log] searchProduct() PASSED 
+2022-11-24 18:58:52,670 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 18:58:53,764 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [11583030573e0ff16aada53689fad8ed, clickElement {id=acfe809c-e189-4f08-8700-90cf99d91fcc}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:52405}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52405/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (11583030573e0ff16aada53689fad8ed)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: 11583030573e0ff16aada53689fad8ed 
+2022-11-24 18:59:04,285 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 18:59:28,726 INFO  [Log] getURL() PASSED 
+2022-11-24 18:59:32,274 INFO  [Log] searchProduct() PASSED 
+2022-11-24 18:59:34,233 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 18:59:36,601 ERROR [Log] selectAProductSize() FAILED with cause : element click intercepted: Element <div data-size-check="" class="product__size -productCart radio-box">...</div> is not clickable at point (592, 15). Other element would receive the click: <header data-header="" class="header__content">...</header>
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c095d7dc3c947462c86e083a849723ef, clickElement {id=6e6d1aad-f1ea-466d-8c7c-414bc148f844}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:52634}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52634/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (c095d7dc3c947462c86e083a849723ef)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: c095d7dc3c947462c86e083a849723ef 
+2022-11-24 18:59:47,125 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:52634}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52634/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c095d7dc3c947462c86e083a849723ef 
+2022-11-24 19:00:37,257 INFO  [Log] getURL() PASSED 
+2022-11-24 19:00:41,697 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:00:43,155 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:00:45,085 ERROR [Log] selectAProductSize() FAILED with cause : element click intercepted: Element <div data-size-check="" class="product__size -productCart radio-box">...</div> is not clickable at point (477, 15). Other element would receive the click: <header data-header="" class="header__content">...</header>
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [87c3d0bbbc5e7cfa98bca0a3b4063b87, clickElement {id=7930211e-6ea5-4108-b958-8e98162215be}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:52867}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52867/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (87c3d0bbbc5e7cfa98bca0a3b4063b87)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: 87c3d0bbbc5e7cfa98bca0a3b4063b87 
+2022-11-24 19:00:55,508 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:52867}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52867/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 87c3d0bbbc5e7cfa98bca0a3b4063b87 
+2022-11-24 19:04:24,944 INFO  [Log] getURL() PASSED 
+2022-11-24 19:04:28,840 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:04:30,794 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:04:31,885 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e352bdd08013508da40480b3c677daed, clickElement {id=a5f15325-2e29-449d-9596-343bf98444a7}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:53392}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53392/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (e352bdd08013508da40480b3c677daed)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: e352bdd08013508da40480b3c677daed 
+2022-11-24 19:04:41,913 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:53392}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53392/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e352bdd08013508da40480b3c677daed 
+2022-11-24 19:06:26,542 INFO  [Log] getURL() PASSED 
+2022-11-24 19:06:30,861 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:06:32,705 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:06:33,719 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e179fb2a43245940fea0e604e214b651, clickElement {id=f487a102-560c-4da9-af4b-ed5a81e852e4}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:53652}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53652/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (e179fb2a43245940fea0e604e214b651)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: e179fb2a43245940fea0e604e214b651 
+2022-11-24 19:06:43,795 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 19:07:44,691 INFO  [Log] getURL() PASSED 
+2022-11-24 19:07:48,653 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:07:51,092 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:07:51,966 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:07:54,193 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:09:52,232 INFO  [Log] getURL() PASSED 
+2022-11-24 19:09:56,496 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:09:58,530 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:09:59,873 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:10:01,721 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:19:17,925 INFO  [Log] getURL() PASSED 
+2022-11-24 19:19:21,834 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:19:24,390 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:19:25,217 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:19:26,975 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:19:26,977 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:19:27,104 ERROR [Log] clickContinueButton() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c4d2e4b747fb0a7631a32ff656af25cb, findElement {using=xpath, value=/html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:54891}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54891/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c4d2e4b747fb0a7631a32ff656af25cb 
+2022-11-24 19:20:20,992 INFO  [Log] getURL() PASSED 
+2022-11-24 19:20:24,906 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:20:27,061 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:20:28,168 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:20:30,088 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:20:30,091 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:20:31,042 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 19:28:14,001 INFO  [Log] getURL() PASSED 
+2022-11-24 19:28:18,031 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:28:20,200 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:28:21,039 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:28:23,096 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:28:23,098 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:28:23,760 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 19:29:30,219 INFO  [Log] getURL() PASSED 
+2022-11-24 19:29:34,915 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:29:36,949 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:29:38,286 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:29:40,056 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:29:40,059 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:29:40,728 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 19:29:50,766 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[4]/header/div/div/div[2]/a/svg (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55980}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55980/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4561e007857c42a46ae42b03550dc858 
+2022-11-24 19:31:11,555 INFO  [Log] getURL() PASSED 
+2022-11-24 19:31:15,346 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:31:17,324 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:31:18,550 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:31:20,334 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:31:20,336 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:31:20,985 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 19:31:24,363 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 19:35:09,798 INFO  [Log] getURL() PASSED 
+2022-11-24 19:35:13,963 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:35:15,976 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:35:17,089 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:35:18,780 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:35:18,783 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:35:19,781 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 19:35:23,169 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 19:35:23,551 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 19:37:53,196 INFO  [Log] getURL() PASSED 
+2022-11-24 19:37:57,196 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:37:59,096 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:38:01,969 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:38:12,410 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57274}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57274/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aed78ec4afe38e3eeeba985cd16450bc 
+2022-11-24 19:38:12,413 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:38:22,661 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 19:38:32,862 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 19:38:43,076 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 19:38:43,080 ERROR [Log] removerProductToCart() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [aed78ec4afe38e3eeeba985cd16450bc, findElement {using=css selector, value=svg.header__basketProductRemove}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57274}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57274/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aed78ec4afe38e3eeeba985cd16450bc 
+2022-11-24 19:39:41,537 INFO  [Log] getURL() PASSED 
+2022-11-24 19:39:45,279 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:39:47,493 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:39:48,642 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [12673c54a8f95bfe4c39ab7cc74b8fe2, clickElement {id=8409e4b4-cac8-4e33-9eeb-0ecbd1d78eec}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57672}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57672/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (12673c54a8f95bfe4c39ab7cc74b8fe2)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: 12673c54a8f95bfe4c39ab7cc74b8fe2 
+2022-11-24 19:39:59,200 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57672}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57672/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 12673c54a8f95bfe4c39ab7cc74b8fe2 
+2022-11-24 19:39:59,207 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:40:09,571 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 19:40:19,794 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 19:40:29,983 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 19:40:29,990 ERROR [Log] removerProductToCart() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [12673c54a8f95bfe4c39ab7cc74b8fe2, findElement {using=css selector, value=svg.header__basketProductRemove}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57672}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57672/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 12673c54a8f95bfe4c39ab7cc74b8fe2 
+2022-11-24 19:40:55,413 INFO  [Log] getURL() PASSED 
+2022-11-24 19:41:29,193 INFO  [Log] getURL() PASSED 
+2022-11-24 19:41:32,912 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:41:34,797 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:41:35,173 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:41:37,575 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:41:37,577 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:41:38,267 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 19:41:41,366 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 19:41:41,976 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 19:41:41,998 ERROR [Log] removerProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"svg.header__basketProductRemove"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [784747408c4e020b1a0c0579697028ec, findElement {using=css selector, value=svg.header__basketProductRemove}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:58049}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58049/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 784747408c4e020b1a0c0579697028ec 
+2022-11-24 19:45:21,755 INFO  [Log] getURL() PASSED 
+2022-11-24 19:45:25,733 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:45:27,630 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:45:28,799 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:45:31,154 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:45:31,156 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:45:32,336 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 19:45:35,686 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 19:45:36,108 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 19:45:36,708 INFO  [Log] removerProductToCart() PASSED 
+2022-11-24 19:48:50,874 INFO  [Log] getURL() PASSED 
+2022-11-24 19:48:55,368 INFO  [Log] searchProduct() PASSED 
+2022-11-24 19:48:57,395 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 19:48:57,807 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 19:49:01,772 INFO  [Log] goToCart() PASSED 
+2022-11-24 19:49:01,774 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 19:49:01,884 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 19:49:05,749 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 19:49:06,086 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 19:49:06,827 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 20:04:39,839 INFO  [Log] getURL() PASSED 
+2022-11-24 20:04:44,264 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:04:46,612 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 20:04:47,556 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 20:04:50,609 INFO  [Log] goToCart() PASSED 
+2022-11-24 20:04:50,613 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:04:50,916 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 20:04:54,767 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 20:04:55,253 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 20:04:56,009 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 20:10:17,712 INFO  [Log] getURL() PASSED 
+2022-11-24 20:10:22,732 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:10:25,072 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 20:10:27,423 ERROR [Log] selectAProductSize() FAILED with cause : element click intercepted: Element <div data-size-check="" class="product__size -productCart radio-box">...</div> is not clickable at point (592, 15). Other element would receive the click: <header data-header="" class="header__content">...</header>
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [01f33ac7727df584695626074dd737e4, clickElement {id=f00a9686-4caf-4aa8-b85c-032ec1f52d5e}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:63481}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63481/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (01f33ac7727df584695626074dd737e4)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: 01f33ac7727df584695626074dd737e4 
+2022-11-24 20:10:37,832 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:10:37,834 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:10:48,079 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:10:58,291 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:11:08,532 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:11:18,787 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:11:43,202 INFO  [Log] getURL() PASSED 
+2022-11-24 20:11:48,305 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:11:49,634 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 20:11:50,939 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [24ef7060839460e8f1b7714e527a6e40, clickElement {id=2e9f66e4-dc1a-424f-bf79-cc6dfb445216}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:63687}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63687/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (24ef7060839460e8f1b7714e527a6e40)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: 24ef7060839460e8f1b7714e527a6e40 
+2022-11-24 20:12:01,463 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:63687}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63687/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 24ef7060839460e8f1b7714e527a6e40 
+2022-11-24 20:12:01,466 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:12:11,831 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:63687}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63687/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 24ef7060839460e8f1b7714e527a6e40 
+2022-11-24 20:12:22,137 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:12:32,349 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:12:42,633 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:14:53,231 INFO  [Log] getURL() PASSED 
+2022-11-24 20:14:57,726 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:15:03,718 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 20:15:05,196 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 20:15:07,097 INFO  [Log] goToCart() PASSED 
+2022-11-24 20:15:07,100 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:15:07,968 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 20:15:11,752 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 20:15:12,253 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 20:15:12,956 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 20:17:18,403 INFO  [Log] getURL() PASSED 
+2022-11-24 20:17:23,190 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:17:29,276 ERROR [Log] scroll() FAILED with cause : Not on second page! ==> expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-24 20:17:30,526 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [11aaebce566c36e007747eda36d28ae7, clickElement {id=9aec82f0-45a3-4de6-8b1a-17329b89628d}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64143}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64143/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (11aaebce566c36e007747eda36d28ae7)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: 11aaebce566c36e007747eda36d28ae7 
+2022-11-24 20:17:40,669 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64143}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64143/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 11aaebce566c36e007747eda36d28ae7 
+2022-11-24 20:17:40,672 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:17:52,098 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64143}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64143/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 11aaebce566c36e007747eda36d28ae7 
+2022-11-24 20:18:02,340 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:18:12,578 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:18:22,905 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:18:56,154 INFO  [Log] getURL() PASSED 
+2022-11-24 20:19:00,522 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:19:11,228 INFO  [Log] scroll() PASSED 
+2022-11-24 20:19:11,666 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 20:19:21,686 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64346}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64346/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a5761cbf3e983b9458611771b5ab3da 
+2022-11-24 20:19:21,694 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:19:32,081 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64346}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64346/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a5761cbf3e983b9458611771b5ab3da 
+2022-11-24 20:19:42,498 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64346}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64346/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a5761cbf3e983b9458611771b5ab3da 
+2022-11-24 20:19:42,653 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 20:19:53,022 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64346}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64346/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a5761cbf3e983b9458611771b5ab3da 
+2022-11-24 20:22:13,183 INFO  [Log] getURL() PASSED 
+2022-11-24 20:22:17,384 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:22:28,139 INFO  [Log] scroll() PASSED 
+2022-11-24 20:22:29,045 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 20:22:39,354 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64802}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64802/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a04f38c67ac27b81519e91c1f471194 
+2022-11-24 20:22:39,364 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:22:49,771 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64802}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64802/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a04f38c67ac27b81519e91c1f471194 
+2022-11-24 20:23:00,127 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64802}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64802/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a04f38c67ac27b81519e91c1f471194 
+2022-11-24 20:23:00,287 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 20:23:10,677 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64802}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64802/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a04f38c67ac27b81519e91c1f471194 
+2022-11-24 20:25:41,500 INFO  [Log] getURL() PASSED 
+2022-11-24 20:25:45,940 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:25:56,535 INFO  [Log] scroll() PASSED 
+2022-11-24 20:25:56,874 ERROR [Log] selectAProductSize() FAILED with cause : javascript error: Cannot read properties of undefined (reading 'removeChild')
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [1c10df17e86feb81c38568526f7c4ce1, executeScript {script=arguments[0].parentNode.removeChild(arguments[0]), args=[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:65467}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65467/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c10df17e86feb81c38568526f7c4ce1 
+2022-11-24 20:26:06,943 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:65467}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65467/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c10df17e86feb81c38568526f7c4ce1 
+2022-11-24 20:26:06,946 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:26:17,378 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:65467}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65467/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c10df17e86feb81c38568526f7c4ce1 
+2022-11-24 20:26:27,747 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:26:38,015 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:26:48,237 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:27:14,646 INFO  [Log] getURL() PASSED 
+2022-11-24 20:27:18,430 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:27:29,110 INFO  [Log] scroll() PASSED 
+2022-11-24 20:27:29,456 ERROR [Log] selectAProductSize() FAILED with cause : javascript error: Cannot read properties of undefined (reading 'removeChild')
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c263965e2700628969f65869b7e57d92, executeScript {script=arguments[0].parentNode.removeChild(arguments[0]), args=[0]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:49287}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49287/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c263965e2700628969f65869b7e57d92 
+2022-11-24 20:27:39,540 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:49287}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49287/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c263965e2700628969f65869b7e57d92 
+2022-11-24 20:27:39,543 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:27:49,937 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:28:00,174 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:28:10,430 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:28:20,667 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:28:42,888 INFO  [Log] getURL() PASSED 
+2022-11-24 20:28:47,059 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:28:57,700 INFO  [Log] scroll() PASSED 
+2022-11-24 20:29:03,010 ERROR [Log] selectAProductSize() FAILED with cause : javascript error: Cannot read properties of undefined (reading 'removeChild')
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [be020cba44b5d81f0024e4d79543f995, executeScript {script=arguments[0].parentNode.removeChild(arguments[0]), args=[5]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:49452}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49452/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be020cba44b5d81f0024e4d79543f995 
+2022-11-24 20:29:13,537 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:49452}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49452/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be020cba44b5d81f0024e4d79543f995 
+2022-11-24 20:29:13,542 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:29:23,898 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:49452}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49452/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be020cba44b5d81f0024e4d79543f995 
+2022-11-24 20:29:34,253 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:29:44,482 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:29:54,718 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 20:44:03,402 INFO  [Log] getURL() PASSED 
+2022-11-24 20:44:07,724 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:44:18,387 INFO  [Log] scroll() PASSED 
+2022-11-24 20:44:23,895 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 20:44:34,424 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57830}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57830/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20010197924a456b62942e874c40c2c0 
+2022-11-24 20:44:34,433 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:44:44,866 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57830}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57830/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20010197924a456b62942e874c40c2c0 
+2022-11-24 20:44:55,280 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57830}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57830/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20010197924a456b62942e874c40c2c0 
+2022-11-24 20:44:55,391 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 20:45:05,782 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:57830}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57830/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20010197924a456b62942e874c40c2c0 
+2022-11-24 20:45:49,658 INFO  [Log] getURL() PASSED 
+2022-11-24 20:45:53,711 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:46:04,504 INFO  [Log] scroll() PASSED 
+2022-11-24 20:46:10,036 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 20:46:11,971 INFO  [Log] goToCart() PASSED 
+2022-11-24 20:46:11,974 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:46:12,624 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 20:46:15,969 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 20:46:16,716 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 20:46:17,443 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 20:47:30,280 INFO  [Log] getURL() PASSED 
+2022-11-24 20:47:34,125 INFO  [Log] searchProduct() PASSED 
+2022-11-24 20:47:44,918 INFO  [Log] scroll() PASSED 
+2022-11-24 20:47:53,436 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 20:48:03,930 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:58440}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58440/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9628d2c10b641d078a6e1cd40095eda9 
+2022-11-24 20:48:03,939 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 20:48:14,324 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:58440}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58440/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9628d2c10b641d078a6e1cd40095eda9 
+2022-11-24 20:48:24,671 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:58440}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58440/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9628d2c10b641d078a6e1cd40095eda9 
+2022-11-24 20:48:24,803 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 20:48:35,120 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:09:22,882 INFO  [Log] getURL() PASSED 
+2022-11-24 21:09:27,329 INFO  [Log] searchProduct() PASSED 
+2022-11-24 21:09:38,008 INFO  [Log] scroll() PASSED 
+2022-11-24 21:09:45,579 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 21:09:55,665 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:58811}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58811/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ec14253a28cc9bcef1ceb324620e4ad 
+2022-11-24 21:09:55,673 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 21:10:06,036 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:10:16,304 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:10:26,559 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:10:36,779 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:33:11,252 INFO  [Log] getURL() PASSED 
+2022-11-24 21:33:15,707 INFO  [Log] searchProduct() PASSED 
+2022-11-24 21:33:26,383 INFO  [Log] scroll() PASSED 
+2022-11-24 21:33:33,915 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 21:33:44,033 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:59077}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59077/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 21d9abf913359cc19ff26eb10f56e1b9 
+2022-11-24 21:33:44,047 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 21:33:54,491 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:59077}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59077/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 21d9abf913359cc19ff26eb10f56e1b9 
+2022-11-24 21:34:04,872 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:59077}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59077/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 21d9abf913359cc19ff26eb10f56e1b9 
+2022-11-24 21:34:05,088 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 21:34:15,508 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:59077}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59077/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 21d9abf913359cc19ff26eb10f56e1b9 
+2022-11-24 21:35:54,936 INFO  [Log] getURL() PASSED 
+2022-11-24 21:35:58,912 INFO  [Log] searchProduct() PASSED 
+2022-11-24 21:36:09,626 INFO  [Log] scroll() PASSED 
+2022-11-24 21:38:10,136 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8d34ad1d882a62df182a5d947b349d77, clickElement {id=c1ea33d3-ec3c-4d3f-b7b2-6c5ba574f4d3}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:53594}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53594/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (8d34ad1d882a62df182a5d947b349d77)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: 8d34ad1d882a62df182a5d947b349d77 
+2022-11-24 21:45:06,279 INFO  [Log] getURL() PASSED 
+2022-11-24 21:45:11,857 INFO  [Log] searchProduct() PASSED 
+2022-11-24 21:45:22,473 INFO  [Log] scroll() PASSED 
+2022-11-24 21:45:39,716 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 21:45:49,751 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:54438}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54438/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8730822bd62c898283af5364371b3b64 
+2022-11-24 21:45:49,761 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 21:46:00,129 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:54438}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54438/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8730822bd62c898283af5364371b3b64 
+2022-11-24 21:46:10,472 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:46:20,711 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:46:30,966 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:46:57,602 INFO  [Log] getURL() PASSED 
+2022-11-24 21:47:01,592 INFO  [Log] searchProduct() PASSED 
+2022-11-24 21:47:12,246 INFO  [Log] scroll() PASSED 
+2022-11-24 21:47:26,617 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b2232326460da38d1a6af54658626213, clickElement {id=660f2697-d6b2-470b-8135-fbb2a82406c0}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:54770}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54770/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (b2232326460da38d1a6af54658626213)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: b2232326460da38d1a6af54658626213 
+2022-11-24 21:47:37,351 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:54770}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54770/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b2232326460da38d1a6af54658626213 
+2022-11-24 21:47:37,414 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 21:48:02,493 INFO  [Log] getURL() PASSED 
+2022-11-24 21:48:06,798 INFO  [Log] searchProduct() PASSED 
+2022-11-24 21:48:17,464 INFO  [Log] scroll() PASSED 
+2022-11-24 21:48:24,956 ERROR [Log] selectAProductSize() FAILED with cause : Index 6 out of bounds for length 6 
+2022-11-24 21:48:35,474 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:48:35,481 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 21:48:45,797 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:48:56,060 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:49:06,321 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:49:16,558 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:53:05,264 INFO  [Log] getURL() PASSED 
+2022-11-24 21:53:09,629 INFO  [Log] searchProduct() PASSED 
+2022-11-24 21:53:20,120 INFO  [Log] scroll() PASSED 
+2022-11-24 21:53:33,297 ERROR [Log] selectAProductSize() FAILED with cause : Index 3 out of bounds for length 3 
+2022-11-24 21:53:43,329 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55285}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55285/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 99fbc2ca706320574627ff4f8935ef48 
+2022-11-24 21:53:43,338 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 21:53:53,720 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 21:54:39,825 INFO  [Log] getURL() PASSED 
+2022-11-24 21:54:43,980 INFO  [Log] searchProduct() PASSED 
+2022-11-24 21:54:54,576 INFO  [Log] scroll() PASSED 
+2022-11-24 21:55:03,246 ERROR [Log] selectAProductSize() FAILED with cause : Index 5 out of bounds for length 5 
+2022-11-24 21:55:13,765 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55534}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55534/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 34dc9e00f6aa14cd26e573353885b090 
+2022-11-24 21:55:13,769 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 22:00:53,313 INFO  [Log] getURL() PASSED 
+2022-11-24 22:00:58,170 INFO  [Log] searchProduct() PASSED 
+2022-11-24 22:01:08,750 INFO  [Log] scroll() PASSED 
+2022-11-24 22:01:19,732 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 22:01:29,784 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55911}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55911/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57209988398f7459da777f79d190fb89 
+2022-11-24 22:01:29,791 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 22:01:40,163 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55911}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55911/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57209988398f7459da777f79d190fb89 
+2022-11-24 22:01:50,496 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55911}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55911/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57209988398f7459da777f79d190fb89 
+2022-11-24 22:01:50,611 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 22:02:00,955 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55911}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55911/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57209988398f7459da777f79d190fb89 
+2022-11-24 22:08:10,656 INFO  [Log] getURL() PASSED 
+2022-11-24 22:08:15,573 INFO  [Log] searchProduct() PASSED 
+2022-11-24 22:08:26,178 INFO  [Log] scroll() PASSED 
+2022-11-24 22:08:32,745 ERROR [Log] selectAProductSize() FAILED with cause : Index -1 out of bounds for length 6 
+2022-11-24 22:08:42,813 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64043}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64043/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c32e85a76de2cc574fdacb2fdb205e64 
+2022-11-24 22:08:42,826 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 22:08:53,199 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 22:09:38,236 INFO  [Log] getURL() PASSED 
+2022-11-24 22:09:44,269 INFO  [Log] searchProduct() PASSED 
+2022-11-24 22:09:54,866 INFO  [Log] scroll() PASSED 
+2022-11-24 22:10:03,657 ERROR [Log] selectAProductSize() FAILED with cause : Index -1 out of bounds for length 5 
+2022-11-24 22:10:13,728 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64276}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64276/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8106b9868a6fa20b8f36991c51e436cb 
+2022-11-24 22:10:13,732 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 22:13:33,995 INFO  [Log] getURL() PASSED 
+2022-11-24 22:13:40,951 INFO  [Log] searchProduct() PASSED 
+2022-11-24 22:13:51,628 INFO  [Log] scroll() PASSED 
+2022-11-24 22:14:04,873 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 22:14:14,920 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64538}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64538/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0cc8b99f827abc09ec01037695e08e9f 
+2022-11-24 22:14:14,929 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 22:14:25,245 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 22:14:35,447 ERROR [Log] clickNetworkLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: a.headerCheckout__logo (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 22:14:57,717 INFO  [Log] getURL() PASSED 
+2022-11-24 22:15:04,653 INFO  [Log] searchProduct() PASSED 
+2022-11-24 22:15:15,297 INFO  [Log] scroll() PASSED 
+2022-11-24 22:15:21,786 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 22:15:32,313 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64762}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64762/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e0ee5d9b557224ca555f81e59ac65da3 
+2022-11-24 22:15:32,322 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 22:15:42,738 ERROR [Log] clickContinueButton() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[2]/div/div[2]/button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64762}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64762/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e0ee5d9b557224ca555f81e59ac65da3 
+2022-11-24 22:18:11,597 INFO  [Log] getURL() PASSED 
+2022-11-24 22:18:15,151 INFO  [Log] searchProduct() PASSED 
+2022-11-24 22:18:25,724 INFO  [Log] scroll() PASSED 
+2022-11-24 22:18:38,931 ERROR [Log] selectAProductSize() FAILED with cause : Index 3 out of bounds for length 3 
+2022-11-24 22:18:49,473 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:64993}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64993/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 426c828e20754424f53aec1338f04e44 
+2022-11-24 22:18:49,477 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 22:31:30,893 INFO  [Log] getURL() PASSED 
+2022-11-24 22:31:36,078 INFO  [Log] searchProduct() PASSED 
+2022-11-24 22:31:46,627 INFO  [Log] scroll() PASSED 
+2022-11-24 22:31:50,987 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 22:31:54,593 INFO  [Log] goToCart() PASSED 
+2022-11-24 22:31:54,597 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 22:31:55,282 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 22:32:01,480 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 22:32:01,897 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 22:32:02,625 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 23:03:50,162 INFO  [Log] getURL() PASSED 
+2022-11-24 23:03:57,993 INFO  [Log] searchProduct() PASSED 
+2022-11-24 23:04:08,770 INFO  [Log] scroll() PASSED 
+2022-11-24 23:04:13,149 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 23:04:19,456 INFO  [Log] goToCart() PASSED 
+2022-11-24 23:04:19,458 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 23:04:20,267 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 23:04:20,271 ERROR [Log] checkLoginButton() FAILED with cause : Cannot invoke "SignUpPage.checkLoginButton()" because "this.signUpPage" is null 
+2022-11-24 23:04:27,142 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 23:04:28,095 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 23:04:28,852 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 23:04:28,886 ERROR [Log] checkCartIsEmpty() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f4331051c9663a40788f94fb9c2bca79, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:50245}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50245/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f4331051c9663a40788f94fb9c2bca79 
+2022-11-24 23:40:49,993 INFO  [Log] getURL() PASSED 
+2022-11-24 23:40:54,441 INFO  [Log] searchProduct() PASSED 
+2022-11-24 23:41:05,261 INFO  [Log] scroll() PASSED 
+2022-11-24 23:41:09,683 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 23:41:11,875 INFO  [Log] goToCart() PASSED 
+2022-11-24 23:41:11,878 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 23:41:13,070 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 23:41:13,075 ERROR [Log] checkLoginButton() FAILED with cause : Cannot invoke "SignUpPage.checkLoginButton()" because "this.signUpPage" is null 
+2022-11-24 23:41:13,085 ERROR [Log] clickNetworkLogo() FAILED with cause : Cannot invoke "SignUpPage.clickNetworkLogo()" because "this.signUpPage" is null 
+2022-11-24 23:41:23,243 ERROR [Log] clickBagLogo() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: svg.header__icon.-shoppingBag (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:59244}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59244/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ec99bf820dbc9e39f7ebf98935b96cc2 
+2022-11-24 23:41:33,589 ERROR [Log] removeProductToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.cssSelector: div.header__basketProductBtn.header__basketModal.-remove svg.header__basketProductRemove (tried for 10 second(s) with 500 milliseconds interval) 
+2022-11-24 23:41:33,595 ERROR [Log] checkCartIsEmpty() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ec99bf820dbc9e39f7ebf98935b96cc2, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:59244}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59244/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ec99bf820dbc9e39f7ebf98935b96cc2 
+2022-11-24 23:47:36,191 INFO  [Log] getURL() PASSED 
+2022-11-24 23:47:40,393 INFO  [Log] searchProduct() PASSED 
+2022-11-24 23:47:51,052 INFO  [Log] scroll() PASSED 
+2022-11-24 23:47:55,416 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 23:47:58,448 INFO  [Log] goToCart() PASSED 
+2022-11-24 23:47:58,451 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 23:47:58,746 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 23:47:58,771 ERROR [Log] checkLoginButton() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div/div/div/div/div[1]/div[1]/form/button"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e245ffc780ee63f253610e8c1e3f5830, findElement {using=xpath, value=/html/body/div[4]/div/div/div/div/div[1]/div[1]/form/button}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:59813}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59813/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e245ffc780ee63f253610e8c1e3f5830 
+2022-11-24 23:48:02,517 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 23:48:02,915 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 23:48:03,712 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 23:48:03,744 ERROR [Log] checkCartIsEmpty() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e245ffc780ee63f253610e8c1e3f5830, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:59813}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59813/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e245ffc780ee63f253610e8c1e3f5830 
+2022-11-24 23:50:33,677 INFO  [Log] getURL() PASSED 
+2022-11-24 23:50:37,885 INFO  [Log] searchProduct() PASSED 
+2022-11-24 23:50:48,559 INFO  [Log] scroll() PASSED 
+2022-11-24 23:50:52,932 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 23:50:55,818 INFO  [Log] goToCart() PASSED 
+2022-11-24 23:50:55,822 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 23:50:56,503 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 23:50:56,539 INFO  [Log] checkLoginButton() PASSED 
+2022-11-24 23:50:59,786 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 23:51:00,611 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 23:51:01,347 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 23:51:01,384 ERROR [Log] checkCartIsEmpty() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [63006c1004a4a3b36d94ecd0d594089f, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:60183}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60183/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 63006c1004a4a3b36d94ecd0d594089f 
+2022-11-24 23:52:43,264 INFO  [Log] getURL() PASSED 
+2022-11-24 23:52:48,324 INFO  [Log] searchProduct() PASSED 
+2022-11-24 23:52:59,035 INFO  [Log] scroll() PASSED 
+2022-11-24 23:53:03,315 ERROR [Log] selectAProductSize() FAILED with cause : element not interactable
+  (Session info: MicrosoftEdge=107.0.1418.56)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e3d99d3733736d41977721b3fbf952c5, clickElement {id=150abe36-8a11-41e8-a238-47e0fceb6190}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:60612}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60612/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on WINDOWS (e3d99d3733736d41977721b3fbf952c5)] -> xpath: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[1]/div/div/div/div]
+Session ID: e3d99d3733736d41977721b3fbf952c5 
+2022-11-24 23:53:13,862 ERROR [Log] goToCart() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="header__desktopBasket"]/div/div[3]/a (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:60612}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60612/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3d99d3733736d41977721b3fbf952c5 
+2022-11-24 23:53:13,866 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 23:53:34,463 INFO  [Log] getURL() PASSED 
+2022-11-24 23:53:37,981 INFO  [Log] searchProduct() PASSED 
+2022-11-24 23:53:48,635 INFO  [Log] scroll() PASSED 
+2022-11-24 23:53:52,989 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 23:53:54,688 INFO  [Log] goToCart() PASSED 
+2022-11-24 23:53:54,693 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 23:53:55,460 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 23:53:55,488 INFO  [Log] checkLoginButton() PASSED 
+2022-11-24 23:53:59,054 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 23:53:59,520 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 23:54:00,252 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 23:54:00,283 ERROR [Log] checkCartIsEmpty() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"span.header__emptyBasketText"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [48db001c29b0a532c639120de38adc88, findElement {using=css selector, value=span.header__emptyBasketText}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:60796}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60796/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 48db001c29b0a532c639120de38adc88 
+2022-11-24 23:58:40,495 INFO  [Log] getURL() PASSED 
+2022-11-24 23:58:44,505 INFO  [Log] searchProduct() PASSED 
+2022-11-24 23:58:55,166 INFO  [Log] scroll() PASSED 
+2022-11-24 23:58:59,524 INFO  [Log] selectAProductSize() PASSED 
+2022-11-24 23:59:01,979 INFO  [Log] goToCart() PASSED 
+2022-11-24 23:59:01,983 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-24 23:59:02,513 INFO  [Log] clickContinueButton() PASSED 
+2022-11-24 23:59:02,545 INFO  [Log] checkLoginButton() PASSED 
+2022-11-24 23:59:06,115 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-24 23:59:06,659 INFO  [Log] clickBagLogo() PASSED 
+2022-11-24 23:59:07,399 INFO  [Log] removeProductToCart() PASSED 
+2022-11-24 23:59:07,427 ERROR [Log] checkCartIsEmpty() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [4a1b5e8f71b3e094f2eb7c280367edb3, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:61213}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61213/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a1b5e8f71b3e094f2eb7c280367edb3 
+2022-11-25 01:07:44,919 INFO  [Log] getURL() PASSED 
+2022-11-25 01:07:49,207 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:07:59,762 INFO  [Log] scroll() PASSED 
+2022-11-25 01:08:04,119 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:08:07,023 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:08:07,026 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:08:07,028 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:08:07,298 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:08:07,325 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:08:10,829 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:08:11,247 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:08:11,946 INFO  [Log] removeProductToCart() PASSED 
+2022-11-25 01:08:11,973 ERROR [Log] checkCartIsEmpty() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [4f5505880db0947f9f3824c389900d48, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:52208}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52208/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4f5505880db0947f9f3824c389900d48 
+2022-11-25 01:15:24,706 INFO  [Log] getURL() PASSED 
+2022-11-25 01:15:29,127 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:15:39,778 INFO  [Log] scroll() PASSED 
+2022-11-25 01:15:44,159 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:15:46,888 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:15:46,891 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:15:46,893 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:15:47,326 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:15:47,352 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:15:51,095 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:15:51,598 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:15:52,343 ERROR [Log] removeProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [9cb813d931f0dc431695598377d1b5a3, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:52712}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52712/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cb813d931f0dc431695598377d1b5a3 
+2022-11-25 01:30:52,637 INFO  [Log] getURL() PASSED 
+2022-11-25 01:30:57,658 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:31:04,262 INFO  [Log] scroll() PASSED 
+2022-11-25 01:31:08,620 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:31:10,971 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:31:10,975 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:31:10,978 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:31:11,869 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:31:11,902 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:31:15,478 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:31:15,929 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:31:16,690 ERROR [Log] removeProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f51bc5091970d442044e14ae349b04de, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:53505}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53505/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f51bc5091970d442044e14ae349b04de 
+2022-11-25 01:33:20,791 INFO  [Log] getURL() PASSED 
+2022-11-25 01:33:25,265 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:33:31,962 INFO  [Log] scroll() PASSED 
+2022-11-25 01:33:36,349 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:33:38,031 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:33:38,034 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:33:38,037 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:33:38,697 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:33:38,755 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:33:42,221 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:33:42,878 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:33:43,649 ERROR [Log] removeProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [07a20bea6cebc169309d0a6083c7ef11, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:53774}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53774/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 07a20bea6cebc169309d0a6083c7ef11 
+2022-11-25 01:35:18,399 INFO  [Log] getURL() PASSED 
+2022-11-25 01:35:22,244 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:35:28,886 INFO  [Log] scroll() PASSED 
+2022-11-25 01:35:33,256 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:35:34,931 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:35:34,935 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:35:34,939 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:35:35,833 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:35:35,909 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:35:39,642 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:35:40,127 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:35:40,876 ERROR [Log] removeProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c0aa69e14117c18eb3235bc24ffe3e10, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:54048}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54048/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c0aa69e14117c18eb3235bc24ffe3e10 
+2022-11-25 01:36:53,237 INFO  [Log] getURL() PASSED 
+2022-11-25 01:36:57,599 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:37:04,419 INFO  [Log] scroll() PASSED 
+2022-11-25 01:37:08,779 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:37:11,155 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:37:11,159 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:37:11,162 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:37:11,859 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:37:11,893 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:37:15,330 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:37:15,743 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:37:19,474 ERROR [Log] removeProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [089b68ca8e22087dd74e10090331bb57, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:54309}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54309/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 089b68ca8e22087dd74e10090331bb57 
+2022-11-25 01:38:04,696 INFO  [Log] getURL() PASSED 
+2022-11-25 01:38:08,651 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:38:15,262 INFO  [Log] scroll() PASSED 
+2022-11-25 01:38:17,647 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:38:19,940 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:38:19,944 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:38:19,948 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:38:20,738 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:38:20,768 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:38:24,205 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:38:24,629 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:38:27,369 ERROR [Log] removeProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [6c14dee1a2f35e766f8031d3c38ee919, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[3]/div/div/div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:54573}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54573/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6c14dee1a2f35e766f8031d3c38ee919 
+2022-11-25 01:41:06,126 INFO  [Log] getURL() PASSED 
+2022-11-25 01:41:10,983 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:41:17,735 INFO  [Log] scroll() PASSED 
+2022-11-25 01:41:20,098 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:41:21,792 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:41:21,797 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:41:21,801 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:41:22,490 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:41:22,526 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:41:26,261 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:41:26,668 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:41:29,407 ERROR [Log] removeProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"button.header__emptyBasketShopping.button.-secondary"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2cb74e9ec33ae248d8f688385d5882d9, findElement {using=css selector, value=button.header__emptyBasketShopping.button.-secondary}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55046}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55046/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2cb74e9ec33ae248d8f688385d5882d9 
+2022-11-25 01:43:21,956 INFO  [Log] getURL() PASSED 
+2022-11-25 01:43:26,024 INFO  [Log] searchProduct() PASSED 
+2022-11-25 01:43:32,759 INFO  [Log] scroll() PASSED 
+2022-11-25 01:43:35,084 INFO  [Log] selectAProductSize() PASSED 
+2022-11-25 01:43:36,789 INFO  [Log] goToCart() PASSED 
+2022-11-25 01:43:36,793 INFO  [Log] checkSizeAndPriceCorrect() PASSED 
+2022-11-25 01:43:36,795 INFO  [Log] checkDiscountPriceLessThanNormalPrice() PASSED 
+2022-11-25 01:43:37,519 INFO  [Log] clickContinueButton() PASSED 
+2022-11-25 01:43:37,555 INFO  [Log] checkLoginButton() PASSED 
+2022-11-25 01:43:40,948 INFO  [Log] clickNetworkLogo() PASSED 
+2022-11-25 01:43:41,384 INFO  [Log] clickBagLogo() PASSED 
+2022-11-25 01:43:44,104 INFO  [Log] removeProductToCart() PASSED 
+2022-11-25 01:43:44,132 ERROR [Log] checkRemoveProductToCart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"button.header__emptyBasketShopping.button.-secondary"}
+  (Session info: MicrosoftEdge=107.0.1418.56)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ef4f892670abc7829f18c805292fcb2f, findElement {using=css selector, value=button.header__emptyBasketShopping.button.-secondary}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.56, ms:edgeOptions: {debuggerAddress: localhost:55388}, msedge: {msedgedriverVersion: 107.0.1418.56 (5b47a5c50066..., userDataDir: C:\Users\zeyne\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55388/devtoo..., se:cdpVersion: 107.0.1418.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ef4f892670abc7829f18c805292fcb2f 
